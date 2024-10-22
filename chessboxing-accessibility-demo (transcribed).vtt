@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.620
+ Hi everyone, it's Peter here. So in this short video, I'm just going to run through the sample solution to the coursework with you to show you what the accessibility features should look like when you're looking at an image.
+
+00:00:15.620 --> 00:00:26.160
+ So, a little like I've talked through with you in lectures, it's really important to make sure that your website is accessible for people who maybe use a screen reader.
+
+00:00:26.160 --> 00:00:44.420
+ So, that's what I'm going to do today. I've got an Apple Mac computer here and I'm going to use the VoiceOver screen reader just to show you an example of how the pictures are supposed to look to a blind or visually impaired person who is using the screen reader on the computer.
+
+00:00:44.920 --> 00:00:55.860
+ So, I'm going to turn VoiceOver on on the computer. Now, before we begin, you'll notice that we are logged into Canvas. You will need to be logged into Canvas for the images to load correctly.
+
+00:00:55.860 --> 00:00:55.960
+ Okay.
+
+00:00:56.160 --> 00:01:10.039
+ If you're pulling them in properly to the website. So, without further ado, I'm just going to take you through the first part of the website so you can see how it's structured and how the accessibility modifications should work to an image.
+
+
+00:01:23.860 --> 00:01:26.120
+ So, I'm just going to move.
+
+00:01:26.160 --> 00:01:29.539
+ Through the page elements until I reach the first image.
+
+
+00:01:55.860 --> 00:02:03.200
+ So you can see here examples of how the tags are spaced out and why it's really
+
+00:02:03.200 --> 00:02:10.419
+ important to ensure you nest your tags properly and your heading levels. 
+
+
+00:02:16.260 --> 00:02:22.760
+ So, now we have our first figure and we
+
+00:02:22.760 --> 00:02:29.380
+ approach the first image. So with appropriate alt text on, the screen reader will read as follows.
+
+
+00:02:40.959 --> 00:02:46.820
+ And this is just an example of what text could say. Obviously it is up to you to decide suitable
+
+00:02:46.820 --> 00:02:52.579
+ alt text, but we do expect that the alt text should be descriptive so that somebody who
+
+00:02:52.580 --> 00:02:58.360
+ can't see the image understands what's going on in the image. So if we move through into the next
+
+00:02:58.360 --> 00:03:03.200
+ descriptor and through the first text, you'll be able to see how the screen reader performs as we
+
+00:03:03.200 --> 00:03:08.020
+ move through.
+
+
+00:03:48.820 --> 00:03:52.540
+ And so you see how the heading level twos are also,
+
+00:03:52.580 --> 00:03:58.340
+ displayed. So I'm not going to go any further through the solution than this because as I say,
+
+00:03:58.340 --> 00:04:04.580
+ it's up to you to decide how to ensure your website is fully accessible. But I hope this helps show you
+
+00:04:04.580 --> 00:04:11.580
+ a little bit of what an accessible website for this coursework solution looks like. Thank you.
+

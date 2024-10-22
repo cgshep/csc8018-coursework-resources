@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:15,620
+ Hi everyone, it's Peter here. So in this short video, I'm just going to run through the sample solution to the coursework with you to show you what the accessibility features should look like when you're looking at an image.
+
+2
+00:00:15,620 --> 00:00:26,160
+ So, a little like I've talked through with you in lectures, it's really important to make sure that your website is accessible for people who maybe use a screen reader.
+
+3
+00:00:26,160 --> 00:00:44,420
+ So, that's what I'm going to do today. I've got an Apple Mac computer here and I'm going to use the VoiceOver screen reader just to show you an example of how the pictures are supposed to look to a blind or visually impaired person who is using the screen reader on the computer.
+
+4
+00:00:44,920 --> 00:00:55,860
+ So, I'm going to turn VoiceOver on on the computer. Now, before we begin, you'll notice that we are logged into Canvas. You will need to be logged into Canvas for the images to load correctly.
+
+5
+00:00:55,860 --> 00:00:55,960
+ Okay.
+
+6
+00:00:56,160 --> 00:01:10,039
+ If you're pulling them in properly to the website. So, without further ado, I'm just going to take you through the first part of the website so you can see how it's structured and how the accessibility modifications should work to an image.
+
+7
+00:01:11,880 --> 00:01:23,860
+ VoiceOver on Safari. Personal CSC 8018 Chess Boxing window. CSC 8018 Chess Boxing web content has keyboard focus. You are currently on a banner inside web content.
+
+8
+00:01:23,860 --> 00:01:26,120
+ So, I'm just going to move.
+
+9
+00:01:26,160 --> 00:01:29,539
+ Through the page elements until I reach the first image.
+
+10
+00:01:30,259 --> 00:01:32,840
+ Edding level 1 Chess Boxing.
+
+11
+00:01:32,860 --> 00:01:33,440
+ navigation.
+
+12
+00:01:34,119 --> 00:01:36,240
+ You are currently in a list for items.
+
+13
+00:01:36,960 --> 00:01:38,140
+ You are currently in a list.
+
+14
+00:01:40,160 --> 00:01:41,399
+ history one a four
+
+15
+00:01:41,880 --> 00:01:43,759
+enk rules to have floors
+
+16
+00:01:43,920 --> 00:01:44,500
+ according.
+
+17
+00:01:44,600 --> 00:01:45,100
+ training
+
+18
+00:01:45,220 --> 00:01:46,039
+ three or four
+
+19
+00:01:46,360 --> 00:01:48,900
+ bank members than Smashen for school.
+
+20
+00:01:49,600 --> 00:01:51,840
+ You are currently on a link and have less.
+
+21
+00:01:52,520 --> 00:01:54,400
+ You are and off navigation.
+
+22
+00:01:54,960 --> 00:01:55,860
+ You are currently on.
+
+23
+00:01:55,860 --> 00:02:03,200
+ navigation. So you can see here examples of how the tags are spaced out and why it's really
+
+24
+00:02:03,200 --> 00:02:10,419
+ important to ensure you nest your tags properly and your heading levels. End of banner. You are
+
+25
+00:02:10,419 --> 00:02:16,260
+ currently on a main. Fighting is done in the ring and wars are waged on the board. We're a chess
+
+26
+00:02:16,260 --> 00:02:22,760
+ boxing organization. Figure. You are currently in a figure. So now we have our first figure and we
+
+27
+00:02:22,760 --> 00:02:29,380
+ approach the first image. So with appropriate alt text on, the screen reader will read as follows.
+
+28
+00:02:29,959 --> 00:02:35,140
+ A photo of two men sitting at a table with a chess board on top. Image. You are currently on an image.
+
+29
+00:02:35,420 --> 00:02:40,140
+ To begin interacting with the contents of this image, press control option shift down arrow.
+
+30
+00:02:40,959 --> 00:02:46,820
+ And this is just an example of what text could say. Obviously it is up to you to decide suitable
+
+31
+00:02:46,820 --> 00:02:52,579
+ alt text, but we do expect that the alt text should be descriptive so that somebody who
+
+32
+00:02:52,580 --> 00:02:58,360
+ can't see the image understands what's going on in the image. So if we move through into the next
+
+33
+00:02:58,360 --> 00:03:03,200
+ descriptor and through the first text, you'll be able to see how the screen reader performs as we
+
+34
+00:03:03,200 --> 00:03:08,020
+ move through. Fighting is done in the ring and wars are waged on the board. We're a chess boxing
+
+35
+00:03:08,020 --> 00:03:14,100
+ organization. You are currently on a figure. Chess boxing is a hybrid that combines two
+
+36
+00:03:14,100 --> 00:03:18,460
+ traditional pastimes, chess and boxing. The competitors compete in alternating rounds of
+
+37
+00:03:18,460 --> 00:03:22,560
+ chess and boxing. You are currently on a selectable text. The basic text is a text that is not a text.
+
+38
+00:03:22,580 --> 00:03:26,400
+ The basic idea in chess boxing is to combine the number one thinking sport with the number one
+
+39
+00:03:26,400 --> 00:03:30,720
+ fighting sport into a hybrid that demands the most of its competitors, both mentally and physically.
+
+40
+00:03:31,180 --> 00:03:36,120
+ One of the goals of this new sport is the old idea of a healthy mind and a healthy body. During a
+
+41
+00:03:36,120 --> 00:03:41,240
+ chess boxing fight, the control of aggression plays a big role. You are currently on a selectable text.
+
+42
+00:03:41,820 --> 00:03:47,680
+ Heading level two, two items. White chess queen, history. You are currently on a heading level two.
+
+43
+00:03:48,820 --> 00:03:52,540
+ And so you see how the heading level twos are also,
+
+44
+00:03:52,580 --> 00:03:58,340
+ displayed. So I'm not going to go any further through the solution than this because as I say,
+
+45
+00:03:58,340 --> 00:04:04,580
+ it's up to you to decide how to ensure your website is fully accessible. But I hope this helps show you
+
+46
+00:04:04,580 --> 00:04:11,580
+ a little bit of what an accessible website for this coursework solution looks like. Thank you.
+
