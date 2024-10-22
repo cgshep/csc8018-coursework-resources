@@ -1,3 +1,3 @@
 # csc8018-coursework-resources
 
-Read the file [Coursework spec.docx](./Coursework spec.docx) to begin.
+Read the file [coursework-spec.docx](coursework-spec.docx) to begin.
